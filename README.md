@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-You need the .env file. Ask the leader of Projects at EWB.
+You need the .env file. Ask the leader of Projects at EWB. (previous leader -> Raisa Raihan, her email is raisa.r.rain@gmail.com)
 The env file should be placed in the same dictionary as src folder (iug folder).
 
 ## Available Scripts
